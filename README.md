@@ -105,3 +105,8 @@ If the project continues, the following features are planned for potential devel
 - **Community Features**: Interactive forums, group chats, user-managed groups, and event scheduling.
 - **Enhanced User Profiles**: Public and private profile views with customizable settings.
   > **Note**: This list is not exhaustive. Additional features and improvements may be added depending on the areas I wish to explore and learn in the future.
+
+## Disclaimer
+This project is an educational replica of the Steam website created solely for learning purposes. Some CSS styles and design elements are inspired by the original Steam website to replicate certain features for educational practice.
+
+This project is not affiliated with, endorsed by, or associated with Valve Corporation or Steam in any way.
